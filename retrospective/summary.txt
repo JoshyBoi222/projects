@@ -1,0 +1,4 @@
+Summarize how the merge conflict in part E1 was resolved: I didn't get any conflict when I merged the "Test" branch for some reason
+Describe the three changes that you made in part C1: I altered the first sentence of the paragraph in the about us file.
+I updated the description of Customer 2's review in the customer file.
+I changed the mission statement in the vision file.

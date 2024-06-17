@@ -1,0 +1,48 @@
+commit dc16bd08e55e57bfc397a110e2fbc1cfdb55f42a
+Merge: e64fe38 c946b56
+Author: joshua.truong <jtruo35@wgu.edu>
+Date:   Mon Jun 3 15:22:34 2024 -0500
+
+    Merge branch 'Test' into Working
+
+commit e64fe38e16dde8637fc4be614b163e24c6568656
+Author: joshua.truong <jtruo35@wgu.edu>
+Date:   Mon Jun 3 15:22:08 2024 -0500
+
+    Added git version number at the top
+
+commit c946b56aa1ca8a891a87fef2c3f7f63d8ed6d3ea
+Author: joshua.truong <jtruo35@wgu.edu>
+Date:   Mon Jun 3 15:10:27 2024 -0500
+
+    Added student ID near the end
+
+commit 201062e85aee184be3c125b2c86a1c08076d1d27
+Author: joshua.truong <jtruo35@wgu.edu>
+Date:   Mon Jun 3 14:59:30 2024 -0500
+
+    Added more to mission statement
+
+commit 4af78985d8f7522451665b4e63c632109a67793e
+Author: joshua.truong <jtruo35@wgu.edu>
+Date:   Mon Jun 3 14:56:45 2024 -0500
+
+    Updated customer 2 review
+
+commit da40e153d6c5ebacf70670666a713bffeba3a8e3
+Author: joshua.truong <jtruo35@wgu.edu>
+Date:   Mon Jun 3 14:52:42 2024 -0500
+
+    Changed the first sentence in the about us paragraph
+
+commit 194e1b48597d51a13e257693e74da80d2882b5c7
+Author: matt.alexander8 <matt@twocom.com>
+Date:   Thu Aug 24 14:47:21 2023 -0400
+
+    Added intial project
+
+commit 959a15aab3bfa9f105acbbf5d66930b053d28249
+Author: Matt Alexander <matt@twocom.com>
+Date:   Thu Aug 24 17:21:16 2023 +0000
+
+    Initial commit
