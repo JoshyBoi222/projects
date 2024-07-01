@@ -1,4 +1,5 @@
-Summarize how the merge conflict in part E1 was resolved: I didn't get any conflict when I merged the "Test" branch for some reason
+Summarize how the merge conflict in part E1 was resolved: I deleted conflict markers in the file and saved it. That solved the problem and allowed me to mer
+erge.
 Describe the three changes that you made in part C1: I altered the first sentence of the paragraph in the about us file.
 I updated the description of Customer 2's review in the customer file.
 I changed the mission statement in the vision file.
